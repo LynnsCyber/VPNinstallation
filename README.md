@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<p align="left">
+<img "height="260" width="300" alt="image" src="https://github.com/user-attachments/assets/bcc02a3d-19de-466a-ac04-48faa90840fa"/>
 </p>
 
 <h1>Proton VPN Installation</h1>
