@@ -4,7 +4,7 @@
 
 <h1>Proton VPN Installation</h1>
 <br>This tutorial is going to demonstrate the breakdown of how to install Proton VPN.<br />
-<br>What does VPN stand for and how it is utilized? VPN stands for Virtual Private Network, it creates a secure, 
+<br>📝What does VPN stand for and how it is utilized? VPN stands for Virtual Private Network, it creates a secure, 
   encrypted tunnel for your internet connection, 
   hiding your data and location from hackers, trackers, and even your internet provider. 
   It also allows you to appear as if you're browsing from a different location.</br>
