@@ -4,6 +4,8 @@
 
 <h1>Proton VPN Installation</h1>
 <br>This tutorial is going to demonstrate the breakdown of how to install Proton VPN.<br />
+<h1>What does VPN stand for and how it is utilized? VPN stands for Virtual Private Network, it creates a secure, encrypted tunnel for your internet connection, 
+  hiding your data and location from hackers, trackers, and even your internet provider. It also allows you to appear as if you're browsing from a different location.</h1>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,7 +18,7 @@
 - Windows 10</b> (21H2)
 
 
-<h2>Configuration Stages</h2>
+<h2>Installation Step by Step</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
