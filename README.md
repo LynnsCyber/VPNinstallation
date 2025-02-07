@@ -24,16 +24,25 @@
 <h1>Installation Step by Step</h1>
 
 <h2>Download Proton VPN to computer/Create Login</h2>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/bcf481c8-8334-4bd3-a6d9-757f319609ec" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/517546c3-4f5a-4a74-a574-f533393d39ce"/>
 <ul>
-  <li>website to download for free https://account.protonvpn.com/signup?plan=free&language=en  </li>
-  <li>Use an admin account to sign in.</li>
+  <li>Click↪️ <a href="https://account.protonvpn.com/signup?plan=free&language=en">[Proton VPN]</a> to download VPN service. </li>
+  <li>Create login once downloaded</li>
    ----------------------------------------------------------------------------------------
   </ul>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+<h2>Select a Server</h2>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/497d16c8-aa30-45e3-8f7e-7ee77294b3ef"/>
+<ul>
+  <li>Choose a country or use "Quick Connect" for the best option.</li>
+   ----------------------------------------------------------------------------------------
+  </ul>
+
+<h2>Enable VPN</h2>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/96db021c-5bf3-4c24-a40e-de1f9fb716de"/>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ed79e45a-7767-4e7f-b28c-07bddacef4e0"/>
+<ul>
+  <li>Click “Quick Connect” to establish a secure connection. Establishes a Private Netowrk in the US (Image 1) </li>
+   <li>The other option aside from clicking Quick Connect is to click on Region below you'd like IP address location to come up as when VPN is searched.(Image 2) </li>
+   ----------------------------------------------------------------------------------------
+  </ul>
