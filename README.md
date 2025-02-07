@@ -21,24 +21,15 @@
 - Windows 10</b> (21H2)
 
 
-<h2>Installation Step by Step</h2>
+<h1>Installation Step by Step</h1>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+<h2>Download Proton VPN to computer/Create Login</h2>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/bcf481c8-8334-4bd3-a6d9-757f319609ec" />
+<ul>
+  <li>website to download for free https://account.protonvpn.com/signup?plan=free&language=en  </li>
+  <li>Use an admin account to sign in.</li>
+   ----------------------------------------------------------------------------------------
+  </ul>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
