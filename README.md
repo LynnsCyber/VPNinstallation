@@ -39,10 +39,26 @@
   </ul>
 
 <h2>Enable VPN</h2>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/96db021c-5bf3-4c24-a40e-de1f9fb716de"/>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/ed79e45a-7767-4e7f-b28c-07bddacef4e0"/>
+<br><img width="500" alt="image" src="https://github.com/user-attachments/assets/96db021c-5bf3-4c24-a40e-de1f9fb716de"/></br>
+    <img width="500" alt="image" src="https://github.com/user-attachments/assets/17013d38-67cb-4de9-9489-f0522bb62dac"/>
 <ul>
   <li>Click “Quick Connect” to establish a secure connection. Establishes a Private Netowrk in the US (Image 1) </li>
    <li>The other option aside from clicking Quick Connect is to click on Region below you'd like IP address location to come up as when VPN is searched.(Image 2) </li>
+   ----------------------------------------------------------------------------------------
+  </ul>
+
+  <h2>Check Accuracy</h2>
+<br><img width="500" alt="image" src="https://github.com/user-attachments/assets/75249867-7abc-4dfb-8087-76f73a3bd2a3"/></br>
+<ul>
+  <li>To Check for VPN Accuracy, Click↪️ <a href="https://whatismyipaddress.com">[whatismyipaddress]</li>
+   <li>This will display IP Address and Region</li>
+    <li>As diplayed in picture, the region appears to be incorrect, click update my IP Location to get accurate location </li>
+   ----------------------------------------------------------------------------------------
+  </ul>
+
+  <h2>Conclusion</h2>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4e821b9a-aacb-4a1b-930a-2a550dc89147"/>
+<ul>
+  <li>Once you update IP Location, double check to see if IPv4 is the same as Displayed in Proton VPN, and check if Region is Accurate, if all matches, then You're All Set!</li>
    ----------------------------------------------------------------------------------------
   </ul>
